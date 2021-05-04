@@ -1,4 +1,4 @@
-17261213505615779
+17275818469102946
 Arduino_LE
 Arduino-Pro-Mini
 
@@ -51639,8 +51639,15 @@ SOIC127P600X175-8N (SOP-8)
 9
 9
 Li_Ion_LE
+Pad_1.5-2.5_w_TH
+SMD Pad 1.5x2.5 mm
+
+0
+1
+1
+Li_Ion_LE
 Pad_2.0-3.25_w_TH
-SMD Pad 3.0x5.0 mm
+SMD Pad 2.0x3.25 mm
 
 0
 1
@@ -51810,6 +51817,34 @@ Logo_LE
 FCC-Logo_48.3x40mm_SilkScreen
 FCC marking
 Logo FCC certification
+0
+0
+0
+Logo_LE
+Ikosy-Logo_Type1_10.3x2mm_SilkScreen
+
+
+0
+0
+0
+Logo_LE
+Ikosy-Logo_Type1_15.0x3mm_SilkScreen
+
+
+0
+0
+0
+Logo_LE
+Ikosy-Logo_Type1_20.5x4mm_Copper
+
+
+0
+0
+0
+Logo_LE
+Ikosy-Logo_Type1_20.5x4mm_SilkScreen
+
+
 0
 0
 0
@@ -51992,6 +52027,34 @@ Logo_LE
 KiCad-Logo2_40mm_SilkScreen
 KiCad Logo
 Logo KiCad
+0
+0
+0
+Logo_LE
+KiCad-Logo3_3mm_SilkScreen
+
+
+0
+0
+0
+Logo_LE
+KiCad-Logo3_4mm_SilkScreen
+
+
+0
+0
+0
+Logo_LE
+KiCad-Logo4_3mm_SilkScreen
+
+
+0
+0
+0
+Logo_LE
+KiCad-Logo4_4mm_SilkScreen
+
+
 0
 0
 0
